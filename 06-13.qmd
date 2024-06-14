@@ -1,0 +1,14 @@
+---
+title: "06-13"
+author: "Sophie Z"
+format: html
+execute: 
+  echo: false 
+---
+
+```{r}
+#| message: false
+#| label: setup
+library(tidyverse)
+```
+
